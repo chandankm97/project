@@ -1,0 +1,27 @@
+#welcome{
+width:1350px;
+}
+.header
+{
+
+	position:relative;
+ height:70px;
+	width:450px;
+	float:left;
+	border-radius:20px;
+
+}
+.side{
+		background-color:blue;
+		position:relative;
+	height:70px;
+	width:450px;
+	float:left;
+}
+	.left{
+position:relative;
+	height:70px;
+
+	width:450px;
+	float:left;
+}

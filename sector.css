@@ -1,0 +1,30 @@
+#sector{
+width:1350px;
+
+}
+
+.left {
+position:relative;
+height:100px;
+width:430px;
+float:left;
+padding:10px;
+
+}
+
+.center {
+position:relative;
+height:100px;
+width:430px;
+float:left;
+padding:10px;
+}
+
+.right {
+position:relative;
+height:100px;
+width:430px;
+float:left;
+padding:10px;
+}
+
